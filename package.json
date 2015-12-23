@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "Just testing",
+  "main": "main.js",
+  "dependencies": {
+    "ejs": "^2.3.3",
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "5.0.0"
+  }
+}
