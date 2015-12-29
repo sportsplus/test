@@ -1,4 +1,4 @@
-# Setting Up
+# Setting Up & Testing
 
 1. Download Node.js from https://nodejs.org/en/download/
 
