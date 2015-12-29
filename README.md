@@ -17,3 +17,4 @@
     ```
     node main.js
     ```
+5. Open http://localhost:3000 on the browser
