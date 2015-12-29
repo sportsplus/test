@@ -7,15 +7,15 @@
     ```
     git clone https://github.com/sportsplus/test.git
     ```
-3. Move to the directory and install required npm packages
-
-    ```
-    npm install
-    ```
-4. Switch to testing branch
+3. Switch to testing branch
 
     ```
     git checkout branch-name
+    ```
+4. Move to the directory and install required npm packages
+
+    ```
+    npm install
     ```
 5. Run Node
 
