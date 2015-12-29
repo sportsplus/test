@@ -12,11 +12,16 @@
     ```
     npm install
     ```
-4. Run Node
+4. Switch to testing branch
+
+    ```
+    git checkout branch-name
+    ```
+5. Run Node
 
     ```
     node main.js
     ```
-5. Open http://localhost:3000 on the browser
+6. Open http://localhost:3000 on the browser
 
 Hit Ctrl+C to stop Node 
