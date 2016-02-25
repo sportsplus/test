@@ -5,7 +5,9 @@
   "main": "main.js",
   "dependencies": {
     "ejs": "^2.3.3",
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "moment": "^2.10.6",
+    "moment-timezone": "^0.4.1"
   },
   "engines": {
     "node": "5.0.0"
